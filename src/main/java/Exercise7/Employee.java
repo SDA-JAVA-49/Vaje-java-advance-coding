@@ -27,7 +27,6 @@ public class Employee {
     }
 
     public static void main(String[] args) {
-        // Create instances of Employee
         Employee emp1 = new Employee(101, "John", 25000);
         Employee emp2 = new Employee(102, "Jane", 35000);
         Employee emp3 = new Employee(103, "Alice", 40000);

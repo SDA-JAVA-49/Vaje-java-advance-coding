@@ -14,7 +14,7 @@ public class NumberPrefixer {
     public static void main(String[] args) {
         List<Integer> numbers = List.of(3, 44);
         NumberPrefixer np = new NumberPrefixer();
-        System.out.println(np.getString(numbers));  // Output: o3,e44
+        System.out.println(np.getString(numbers));
     }
 }
 
